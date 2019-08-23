@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm",
+  "title": "gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm",
+  "keywords": "gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm, esp32, esp8266, arduino",
+  "description": "gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gp2y0a21-infrared-sensor-sharp-gp2y0a21-distance-sensor-10cm---80cm/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
